@@ -1,0 +1,21 @@
+customer_id,full_name,first_name,last_name,email,city,zip_code
+1,John Doe,John,Doe,john.doe@example.com,Kiambu,62701
+2,Jane Smith,Jane,Smith,jane.smith@example.com,Nairobi,62702
+3,Bob Johnson,Bob,Johnson,bob.johnson@example.com,Kiambu,62703
+4,Alice Williams,Alice,Williams,alice.williams@example.com,Naivasha,62704
+5,Michael Brown,Michael,Brown,michael.brown@example.com,Naivasha,62705
+6,Linda Davis,Linda,Davis,linda.davis@example.com,Naivasha,62706
+7,James Miller,James,Miller,james.miller@example.com,Naivasha,62707
+8,Mary Wilson,Mary,Wilson,mary.wilson@example.com,Naivasha,62708
+9,Robert Moore,Robert,Moore,robert.moore@example.com,Mombasa,62709
+10,Patricia Taylor,Patricia,Taylor,patricia.taylor@example.com,Mombasa,62710
+11,David Anderson,David,Anderson,david.anderson@example.com,Nairobi,62701
+12,Barbara Thomas,Barbara,Thomas,barbara.thomas@example.com,Kisumu,62702
+13,Richard Jackson,Richard,Jackson,richard.jackson@example.com,Kisumu,62703
+14,Susan White,Susan,White,susan.white@example.com,Meru,62704
+15,Joseph Harris,Joseph,Harris,joseph.harris@example.com,Eldoret,62705
+16,Karen Martin,Karen,Martin,karen.martin@example.com,Nairobi,62706
+17,Charles Thompson,Charles,Thompson,charles.thompson@example.com,Naivasha,62707
+18,Lisa Garcia,Lisa,Garcia,lisa.garcia@example.com,Nairobi,62708
+19,Thomas Martinez,Thomas,Martinez,thomas.martinez@example.com,Nairobi,62709
+20,Betty Robinson,Betty,Robinson,betty.robinson@example.com,Nairobi,62710

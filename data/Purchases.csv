@@ -1,0 +1,26 @@
+purchase_id,customer_name,product_name,quantity,price_per_item,purchase_date,total_purchase_amount
+1,John Doe,Laptop,1,1200,2024-01-15,1200
+2,Jane Smith,Smartphone,2,800,2024-02-20,1600
+3,Bob Johnson,Tablet,1,300,2024-03-25,300
+4,John Doe,Headphones,2,50,2024-04-05,100
+5,Alice Williams,Smartwatch,1,200,2024-05-10,200
+6,Michael Brown,Camera,1,500,2024-06-15,500
+7,Linda Davis,Laptop,1,1100,2024-07-20,1100
+8,James Miller,Smartphone,3,700,2024-08-25,2100
+9,Mary Wilson,Tablet,2,250,2024-09-30,500
+10,Robert Moore,Headphones,1,45,2024-10-05,45
+11,Patricia Taylor,Smartwatch,2,190,2024-11-10,380
+12,David Anderson,Camera,1,550,2024-12-15,550
+13,Barbara Thomas,Laptop,1,1300,2024-01-20,1300
+14,Richard Jackson,Smartphone,2,750,2024-02-25,1500
+15,Susan White,Tablet,1,280,2024-03-30,280
+16,Joseph Harris,Headphones,3,60,2024-04-04,180
+17,Karen Martin,Smartwatch,1,210,2024-05-09,210
+18,Charles Thompson,Camera,1,600,2024-06-14,600
+19,Lisa Garcia,Laptop,2,1250,2024-07-19,2500
+20,Thomas Martinez,Smartphone,1,850,2024-08-24,850
+21,Betty Robinson,Tablet,3,270,2024-09-29,810
+22,John Doe,Smartwatch,1,220,2024-10-04,220
+23,Jane Smith,Camera,1,650,2024-11-09,650
+24,Bob Johnson,Laptop,1,1350,2024-12-14,1350
+25,Alice Williams,Smartphone,2,900,2024-01-19,1800
